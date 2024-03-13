@@ -4,11 +4,6 @@
 <img src="https://github.com/LucasAlkmimBarros/LucasAlkmimBarros/blob/main/githubBanner.jpg" />
 </p align="center">
 
-
-
-<h2 align="center">
-  Hello there! 👋 I'm Lucas Alkmim Barros, a passionate computer scientist! 💻 
-</h2>  
   <p align="center">
   🎓 Currently pursuing my degree in Computer Science at PUC Minas. <br>
   🚀 Excitedly looking for opportunities to contribute and grow in the technology industry. #OpenToWork 🌟
