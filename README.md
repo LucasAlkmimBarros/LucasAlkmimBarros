@@ -1,8 +1,8 @@
 
 <p align="center">
- 
+
+<img src="https://github.com/LucasAlkmimBarros/LucasAlkmimBarros/blob/main/githubBanner.jpg" />
 </p align="center">
-<img src="https://github.com/LucasAlkmimBarros/LucasAlkmimBarros/blob/main/images/newbg(1).png" />
 
 
 
